@@ -3,7 +3,7 @@
 ---
 
 ## **Overview**  
-The **Sepsis Prediction System** is a machine learning-powered web application developed by **Andy Konney** as part of the Azubi Africa Final Project. This innovative tool predicts the likelihood of sepsis in patients using clinical data, offering healthcare providers actionable insights to enable early intervention and improve patient outcomes.  
+The **Sepsis Prediction System** is a machine learning-powered web application developed by **Andy Konney** as part of his final project for Azubi Africa. This innovative tool predicts the likelihood of sepsis in patients using clinical data, offering healthcare providers actionable insights to enable early intervention and improve patient outcomes.  
 
 The application includes:  
 - A machine learning model trained on clinical data.  
@@ -15,22 +15,21 @@ The application includes:
 
 ## **Table of Contents**  
 1. [Overview](#overview)  
-2. [App Screenshots](#app-screenshots)  
-3. [Setup](#setup)  
+2. [Setup](#setup)  
    - [Prerequisites](#prerequisites)  
    - [Installation Steps](#installation-steps)  
-4. [Usage](#usage)  
+3. [Usage](#usage)  
    - [API Endpoints](#api-endpoints)  
-5. [Dataset Description](#dataset-description)  
+4. [Dataset Description](#dataset-description)  
    - [Features Overview](#features-overview)  
    - [Target Column](#target-column)  
-6. [Model Development](#model-development)  
+5. [Model Development](#model-development)  
    - [Data Preprocessing](#data-preprocessing)  
    - [Model Training and Evaluation](#model-training-and-evaluation)  
-7. [Future Enhancements](#future-enhancements)  
-8. [Deployed Application](#deployed-application)  
-9. [Author](#author)  
-10. [License](#license)  
+6. [Future Enhancements](#future-enhancements)  
+7. [Deployed Application](#deployed-application)  
+8. [Author](#author)  
+9. [License](#license)  
 
 ---
 
@@ -164,7 +163,7 @@ The application is deployed and accessible at:
 
 ## **Author**  
 **Andy Konney**  
-Azubi Africa Final Project  
+Andy is a budding **Data Analyst** currently pursuing studies in Data Analysis. He possesses strong skills in data preprocessing, model building, and visualization. This project, the **Sepsis Prediction System**, represents his **Final Project Work 3** for Azubi Africa, showcasing his ability to apply data analytics and machine learning in solving real-world problems.  
 
 ---
 
