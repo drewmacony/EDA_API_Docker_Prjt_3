@@ -158,7 +158,7 @@ The final model demonstrated high accuracy on the test dataset and robust genera
 
 ## **Deployed Application**  
 The application is deployed and accessible at:  
-[**Deployed App Link**](#)  
+[**Deployed App Link**](https://edaapidockerprjt3-xxappkgsptc6scjgw2pdr2l.streamlit.app/)  
 
 ---
 
